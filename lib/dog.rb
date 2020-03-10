@@ -4,8 +4,7 @@ class Dog
     @breed = breed
     
   "Mutt"
-    end 
-  end
+  end 
  
   def name=(name)
     @name = name
